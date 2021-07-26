@@ -10,4 +10,5 @@ while True:
         break
     n -= 3
     bag += 1
+
 print(bag)
