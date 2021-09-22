@@ -6,7 +6,7 @@ const A = input[0], B = input[1];
 if (A > B) {
   console.log('>');
 } else if (A < B) {
-  console.log('<')
+  console.log('<');
 } else {
-  console.log('==')
+  console.log('==');
 }
